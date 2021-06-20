@@ -1,0 +1,18 @@
+.features{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    width:100vw;
+}
+
+.features-children{
+    display: contents;
+}
+
+.features-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

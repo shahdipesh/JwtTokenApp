@@ -1,0 +1,14 @@
+.login{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    height: 93.5vh;
+    align-items: center;
+}
+
+.form-login{
+    background-color: whitesmoke;
+    width: 40vw;
+    padding: 21px 25px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
